@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ammar Lodhi",
+        "email": "ammarlodhi67@gmail.com",
+        "age": 22,
+        "city": "Karachi"
+    },
+    {
+        "name": "Lodhi Ammar",
+        "email": "lodhiammar67@gmail.com",
+        "age": 22,
+        "city": "Sukkur"
+    },
+    {
+        "name": "Aoun Raza",
+        "email": "aounraza@gmail.com",
+        "age": 22,
+        "city": "Hyderabad"
+    },
+    {
+        "name": "Mahad",
+        "email": "mahad@gmail.com",
+        "age": 22,
+        "city": "Larkana"
+    },
+    {
+        "name": "Uzair Taufeeq",
+        "email": "uzairtaufeeq@gmail.com",
+        "age": 22,
+        "city": "Multan"
+    },
+    {
+        "name": "Hammad Gatta",
+        "email": "hammadgatta@gmail.com",
+        "age": 22,
+        "city": "Sialkot"
+    },
+    {
+        "name": "Daniyal Yaseen",
+        "email": "daniyalyaseen@gmail.com",
+        "age": 22,
+        "city": "Murree"
+    },
+    {
+        "name": "Yasoob Raza",
+        "email": "yasoobraza@gmail.com",
+        "age": 22,
+        "city": "Islamabad"
+    },
+    {
+        "name": "Hassan Mehdi",
+        "email": "hassanmehdi@gmail.com",
+        "age": 22,
+        "city": "Lahore"
+    },
+    {
+        "name": "Usman Yousuf",
+        "email": "usmanyousuf@gmail.com",
+        "age": 22,
+        "city": "Quetta"
+    }
+]

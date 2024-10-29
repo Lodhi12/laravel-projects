@@ -1,0 +1,37 @@
+[
+    {
+        "email": "ammarlodhi67@gmail.com",
+        "phone": "3357065335",
+        "address": "#123 II",
+        "city": "Karachi",
+        "student_id": 1
+    },
+    {
+        "email": "ammari@gmail.com",
+        "phone": "3357846352",
+        "address": "#123 IV",
+        "city": "Sukkur",
+        "student_id": 2
+    },
+    {
+        "email": "ammaripyaari@gmail.com",
+        "phone": "3368976532",
+        "address": "#123 V",
+        "city": "Gujranwala",
+        "student_id": 3
+    },
+    {
+        "email": "lodhiammar@gmail.com",
+        "phone": "3329875601",
+        "address": "#123 VI",
+        "city": "Quetta",
+        "student_id": 4
+    },
+    {
+        "email": "lodhiiammar@gmail.com",
+        "phone": "3346577898",
+        "address": "#123 VII",
+        "city": "Faisalabad",
+        "student_id": 5
+    }
+]

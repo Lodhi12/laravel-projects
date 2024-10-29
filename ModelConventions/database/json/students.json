@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ammar Lodhi",
+        "age": 22,
+        "city": "Karachi"
+    },
+    {
+        "name": "Lodhi Ammar",
+        "age": 22,
+        "city": "Gujranwala"
+    },
+    {
+        "name": "Aoun Raza",
+        "age": 22,
+        "city": "Sukkur"
+    },
+    {
+        "name": "Uzair Taufeeq",
+        "age": 22,
+        "city": "Sialkot"
+    },
+    {
+        "name": "Azhar Ali",
+        "age": 22,
+        "city": "Lahore"
+    }
+]
